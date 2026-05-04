@@ -1,0 +1,10 @@
+[
+    {
+        "identifiant": "admin",
+        "mot_de_passe": "jack123",
+        "role": "super_admin",
+        "nom_complet": "Administrateur Jack",
+        "date_creation": "2026-05-02",
+        "actif": true
+    }
+]
